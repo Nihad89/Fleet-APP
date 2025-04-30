@@ -1,0 +1,24 @@
+# Node.js / React Native
+node_modules/
+npm-debug.log
+.env
+.expo/
+.expo-shared/
+*.log
+
+# macOS
+.DS_Store
+
+# Android
+android/app/build/
+*.keystore
+
+# iOS
+ios/build/
+ios/Pods/
+*.xcworkspace
+*.xcodeproj
+
+# IDEs
+.vscode/
+.idea/
